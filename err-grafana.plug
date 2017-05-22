@@ -1,0 +1,12 @@
+[Core]
+name = err-grafana
+module = err-grafana
+
+[Documentation]
+description = Plugin that searches for and renders panels from Grafana
+
+[Python]
+version = 3
+
+[Errbot]
+
