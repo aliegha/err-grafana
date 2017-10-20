@@ -3,7 +3,7 @@ from errbot import BotPlugin, botcmd, arg_botcmd, webhook
 
 class Err-grafana(BotPlugin):
     """
-    Plugin that searches for and renders panels from Grafana
+    Plugin that searches for and renders panels from Grafana server
     """
 
     def activate(self):
