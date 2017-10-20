@@ -1,6 +1,6 @@
 [Core]
-name = err-grafana
-module = err-grafana
+name = grafana
+module = grafana
 
 [Documentation]
 description = Plugin that searches for and renders panels from Grafana
