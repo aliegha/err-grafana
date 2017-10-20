@@ -20,3 +20,8 @@ class grafana(BotPlugin):
     def render(self, msg, args)
     """renders selected panel using bytesIO object"""
         pass
+   
+class BotCmdFail(Exception):
+    """
+    Custom Exception for failed interactions with bot
+    """
